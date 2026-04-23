@@ -95,4 +95,7 @@ dependencies {
     // add xelement's dependencies
     implementation "org.lynxsdk.lynx:xelement:3.6.0"
     implementation "org.lynxsdk.lynx:xelement-input:3.6.0"
+    implementation "org.lynxsdk.lynx:xelement-overlay:3.6.0"
+    implementation "org.lynxsdk.lynx:xelement-svg:3.6.0"
+    implementation "org.lynxsdk.lynx:servalsvg:0.0.1-alpha.3"
 }
